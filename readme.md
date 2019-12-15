@@ -28,7 +28,7 @@ The original dataset as well as the cleaned dataset can be found in the ```data`
 ### Web app
 As we were quite happy with the accuracy of our best model which exceeded 0.9 and didn't see a way to improve these results apart from complicated Neural Networks, we decided to use our model in a more concrete way. As such, we built a simple web app where one can enter a movie review, and our model will predict wheteter it is positive or negative.
 
-[Link to the webpage](https://whispering-bastion-28721.herokuapp.com/)
+[Link to the app](https://whispering-bastion-28721.herokuapp.com/)
 
 ![Predictor](https://i.ibb.co/LJRG8rj/Screen-Shot-2019-12-15-at-22-31-14.png "Predictor")
 
