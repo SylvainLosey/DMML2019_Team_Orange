@@ -36,4 +36,4 @@ All the details of the implementation are in a dedicated repository: [link](http
 
 
 ### Video presentation
-The video presentation can be found on [Youtube](https://nvskdvk)
+The video presentation can be found on [Youtube](https://www.youtube.com/watch?v=P9ZTqOuxp8I)
